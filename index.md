@@ -15,8 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- I love the TA dude teaching the class, his mustache is very nice
+- interesting course
+- all of the above 
 
 1. Numbered
 2. List
